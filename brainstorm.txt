@@ -9,13 +9,13 @@ Basic Brainstorming Rules
 
 
 Write a list below of all the ideas your team came up with.
-•
-•
-•
-•
-•
-•
-•
+• Bingo Game
+• Chrsitmas Dinner
+• Globe that points to where we live
+• Favorite Sports Team List(logos)
+• My Room
+• My Pets
+• 
 •
 •
 •
@@ -24,7 +24,8 @@ Write a list below of all the ideas your team came up with.
 
 
 Chosen Idea:
-
+Bingo Game
 Add a new file called "sketch.jpg" to your GitHub project of a scretch of your chosen idea.
 
-Why did you group chose this idea? In other words, why was this idea evaluated higher than your other ideas. Explain with at least 3 sentences.
+Why did you choose this idea? In other words, why was this idea evaluated higher than your other ideas. Explain with at least 3 sentences.
+I wanted something challenging, but also something I was capable of doing. When a box on the board matches with the number it will cross out that box, using an X. When you win, it will tell you if you won, and if you loose, it will tell you that you lost. You loose if you don't get a "bingo" within 10 tries. 
